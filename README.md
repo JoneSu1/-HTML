@@ -23,3 +23,25 @@
 <font size="1">这是1号字体文本</font>
 ```
 ![2](https://github.com/JoneSu1/-HTML/assets/103999272/1255fe1e-25b1-4652-8715-3ec3ea06964e)
+
+
+### 关于段落
+我们可以适用<p> 内容 </p>来定义一个段落的内容
+```HTML
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>菜鸟教程(runoob.com)</title>
+</head>
+<body>
+
+<p>这是一个段落。</p>
+<p>这是一个段落。</p>
+<p>这是一个段落。</p>
+
+</body>
+</html>
+```
+![3](https://github.com/JoneSu1/-HTML/assets/103999272/b11153a2-2668-4789-b477-cabebb9871e8)
+
