@@ -27,6 +27,9 @@
 
 ### 关于段落
 我们可以适用<p> 内容 </p>来定义一个段落的内容
+在段落中，可以使用<br>来进行转行
+![4](https://github.com/JoneSu1/-HTML/assets/103999272/e562baed-421e-4924-b3bc-1c7daa752158)
+
 ```HTML
 <!DOCTYPE html>
 <html>
