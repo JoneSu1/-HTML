@@ -48,3 +48,23 @@
 ```
 ![3](https://github.com/JoneSu1/-HTML/assets/103999272/b11153a2-2668-4789-b477-cabebb9871e8)
 
+
+**一些小的注释可以改变字体,<b>ziti</b>将可以加粗，<i>ziti</i>加斜体， <sub>ziti</sub>下标，<sup>ziti</sup>上标**
+
+```HTML
+<!DOCTYPE html>
+<html>
+<head> 
+<meta charset="utf-8"> 
+<title>菜鸟教程(runoob.com)</title> 
+</head> 
+<body>
+
+<b>加粗文本</b><br><br>
+<i>斜体文本</i><br><br>
+<code>电脑自动输出</code><br><br>
+这是 <sub> 下标</sub> 和 <sup> 上标</sup>
+
+</body>
+</html>
+```
